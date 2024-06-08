@@ -29,8 +29,6 @@ The Hotel Booking Website is a comprehensive platform designed for booking hotel
 - **User Authentication**: Secure login and registration functionality.
 - **Search and Filter**: Users can search for hotels based on location, price, and ratings.
 - **Booking Management**: Users can view, create, and cancel bookings.
-- **Responsive Design**: Optimized for both desktop and mobile devices.
-- **Payment Gateway**: Integrated with a payment gateway for processing payments securely.
 
 ## 📸 Screenshots
 
