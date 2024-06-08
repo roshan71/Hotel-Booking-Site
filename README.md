@@ -38,8 +38,17 @@ The Hotel Booking Website is a comprehensive platform designed for booking hotel
 ### Search Results
 ![Search Results](ScreenShots/search.png)
 
+### Hotel Details
+![Hotel Details](ScreenShots/hoteldetail.png)
+
+### User Login
+![User Login](ScreenShots/Login.png)
+
+### User Register
+![User Register](ScreenShots/signup.png)
+
 ### Hotel Booking
-![Hotel Details](ScreenShots/book.png)
+![Hotel Booking](ScreenShots/book.png)
 
 ### My Booking
-![Hotel Details](ScreenShots/mybooking.png)
+![MyBooking](ScreenShots/mybooking.png)
